@@ -1,3 +1,4 @@
  pycarrot
  matplotlib
- sklearn
+ scikit-learn
+ pycaret
